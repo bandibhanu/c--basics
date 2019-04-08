@@ -1,0 +1,8 @@
+C:\Users\hemamotupalli\source\repos\CalculatorForm\CalculatorForm\bin\Debug\netstandard1.4\CalculatorForm.deps.json
+C:\Users\hemamotupalli\source\repos\CalculatorForm\CalculatorForm\bin\Debug\netstandard1.4\CalculatorForm.dll
+C:\Users\hemamotupalli\source\repos\CalculatorForm\CalculatorForm\bin\Debug\netstandard1.4\CalculatorForm.pdb
+C:\Users\hemamotupalli\source\repos\CalculatorForm\CalculatorForm\obj\Debug\netstandard1.4\CalculatorForm.csprojAssemblyReference.cache
+C:\Users\hemamotupalli\source\repos\CalculatorForm\CalculatorForm\obj\Debug\netstandard1.4\CalculatorForm.csproj.CoreCompileInputs.cache
+C:\Users\hemamotupalli\source\repos\CalculatorForm\CalculatorForm\obj\Debug\netstandard1.4\CalculatorForm.AssemblyInfo.cs
+C:\Users\hemamotupalli\source\repos\CalculatorForm\CalculatorForm\obj\Debug\netstandard1.4\CalculatorForm.dll
+C:\Users\hemamotupalli\source\repos\CalculatorForm\CalculatorForm\obj\Debug\netstandard1.4\CalculatorForm.pdb
